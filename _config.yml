@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag 设置 › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # 主标题
+title: wz # 主标题
 
 tagline: A text-focused Jekyll theme # 将显示为副标题
 
@@ -23,7 +23,7 @@ description: >- # 用于 SEO 元数据和 atom feed
 
 # 填写你网站的协议和主机名。
 # 例如 'https://username.github.io'，注意末尾不要加 '/'。
-url: ""
+url: "https://qq-stars.github.io"
 
 github:
   username: QQ-Stars # 更改为你的 GitHub 用户名arrs
@@ -34,12 +34,12 @@ twitter:
 social:
   # 更改为你的全名。
   # 它将显示为文章的默认作者和页脚的版权所有者
-  name: your_full_name
-  email: example@domain.com # 更改为你的邮箱地址
+  name: 王昭
+  email: 13603706832@163.com # 更改为你的邮箱地址
   links:
     # 第一个元素作为版权所有者的链接
-    - https://twitter.com/username # 更改为你的 Twitter 主页
-    - https://github.com/username # 更改为你的 GitHub 主页
+    # - https://twitter.com/username # 更改为你的 Twitter 主页
+    - https://github.com/QQ-Stars # 更改为你的 GitHub 主页
     # 取消注释下面的内容以添加更多社交链接
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -97,7 +97,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # 侧边栏头像，支持本地或 CORS 资源
-avatar:
+avatar: /assets/img/avatar.jpg
 
 # 用于 SEO `og:image` 元标签的全站社交预览图片 URL。
 # 可以通过 front matter 中的自定义 `page.image` 覆盖。
