@@ -23,7 +23,7 @@ description: >- # 用于SEO元标签和Atom订阅源
 
 # 填写您网站的协议和主机名。
 # 例如：'https://username.github.io'，注意不要以 '/' 结尾。
-url: ""
+url: "https://qq-stars.github.io"
 
 github:
   username: QQ-Stars # 修改为您的GitHub用户名
