@@ -8,7 +8,7 @@ author: wz
 date: 2025-08-18 20:55:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
-pin: true
+pin: False
 ---
 
 ## Creating a Site Repository
