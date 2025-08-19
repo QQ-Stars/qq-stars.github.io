@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: wz # 主标题
 
-tagline: 王昭的个人页面 # 将显示为副标题
+tagline: wz的个人页面 # 将显示为副标题
 
 description: >- # 用于SEO元标签和Atom订阅源
   一个简洁、响应式且功能丰富的技术写作Jekyll主题。
